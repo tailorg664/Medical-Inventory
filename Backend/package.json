@@ -4,8 +4,9 @@
   "description": "Backend for medical inventory ",
   "main": "index.js",
   "scripts": {
-    "test": "start"
+    "start": "node index.js"
   },
+  "type": "module",
   "author": "Gaurav Tailor, Uday Prakash Dubey",
   "license": "ISC",
   "dependencies": {
