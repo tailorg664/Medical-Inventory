@@ -1,0 +1,14 @@
+{
+  "name": "medical-inventory-backend",
+  "version": "1.0.0",
+  "description": "Backend for medical inventory ",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Gaurav Tailor, Uday Prakash Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
